@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\bin\Debug\DemoCalculator.exe
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\bin\Debug\DemoCalculator.pdb
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\obj\Debug\DemoCalculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\obj\Debug\DemoCalculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\obj\Debug\DemoCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\obj\Debug\DemoCalculator.exe
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\obj\Debug\DemoCalculator.pdb
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\DemoCalculator\obj\Debug\DemoCalculator.csprojAssemblyReference.cache

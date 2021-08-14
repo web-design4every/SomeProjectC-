@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\SE1421_QuanLyKho\obj\Debug\SE1421_QuanLyKho.QuanLyNhapKho.resources
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\SE1421_QuanLyKho\obj\Debug\SE1421_QuanLyKho.QuanLyTonKho.resources
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\SE1421_QuanLyKho\obj\Debug\SE1421_QuanLyKho.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\SE1421_QuanLyKho\obj\Debug\SE1421_QuanLyKho.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\SE1421_QuanLyKho\obj\Debug\SE1421_QuanLyKho.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\SE1421_QuanLyKho\obj\Debug\SE1421_QuanLyKho.csprojAssemblyReference.cache

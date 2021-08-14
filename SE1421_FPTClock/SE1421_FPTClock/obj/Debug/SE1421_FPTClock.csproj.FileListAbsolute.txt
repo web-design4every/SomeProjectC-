@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SE1421_FPTClock\SE1421_FPTClock\bin\Debug\SE1421_FPTClock.exe
+C:\Users\Admin\source\repos\SE1421_FPTClock\SE1421_FPTClock\bin\Debug\SE1421_FPTClock.pdb
+C:\Users\Admin\source\repos\SE1421_FPTClock\SE1421_FPTClock\obj\Debug\SE1421_FPTClock.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_FPTClock\SE1421_FPTClock\obj\Debug\SE1421_FPTClock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_FPTClock\SE1421_FPTClock\obj\Debug\SE1421_FPTClock.exe
+C:\Users\Admin\source\repos\SE1421_FPTClock\SE1421_FPTClock\obj\Debug\SE1421_FPTClock.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\FirstSolution\RunningApplication\bin\Debug\RunningApplication.exe
+C:\Users\Admin\source\repos\FirstSolution\RunningApplication\bin\Debug\RunningApplication.pdb
+C:\Users\Admin\source\repos\FirstSolution\RunningApplication\obj\Debug\RunningApplication.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FirstSolution\RunningApplication\obj\Debug\RunningApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FirstSolution\RunningApplication\obj\Debug\RunningApplication.exe
+C:\Users\Admin\source\repos\FirstSolution\RunningApplication\obj\Debug\RunningApplication.pdb

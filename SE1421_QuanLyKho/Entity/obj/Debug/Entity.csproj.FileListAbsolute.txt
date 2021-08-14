@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_QuanLyKho\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

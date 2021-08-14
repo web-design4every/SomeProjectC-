@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\bin\SE1421_PagingGridview.dll.config
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\bin\SE1421_PagingGridview.dll
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\bin\SE1421_PagingGridview.pdb
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\obj\Debug\SE1421_PagingGridview.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\obj\Debug\SE1421_PagingGridview.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\obj\Debug\SE1421_PagingGridview.dll
+C:\Users\Admin\source\repos\SE1421_PagingGridview\SE1421_PagingGridview\obj\Debug\SE1421_PagingGridview.pdb

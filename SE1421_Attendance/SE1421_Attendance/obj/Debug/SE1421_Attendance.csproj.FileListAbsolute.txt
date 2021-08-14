@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\SE1421_Attendance.exe.config
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\SE1421_Attendance.exe
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\SE1421_Attendance.pdb
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\DAO.dll
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\DAO.pdb
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.Form1.resources
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.csproj.CopyComplete
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.exe
+C:\Users\Admin\source\repos\SE1421_Attendance\SE1421_Attendance\obj\Debug\SE1421_Attendance.pdb

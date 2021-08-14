@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\source\repos\SE1421_Attendance\DAO\obj\Debug\DAO.pdb

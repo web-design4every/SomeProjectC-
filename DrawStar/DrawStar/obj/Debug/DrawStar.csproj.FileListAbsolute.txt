@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.DisplayStar.resources
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.Properties.Resources.resources
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DrawStar\DrawStar\bin\Debug\DrawStar.exe
+C:\Users\Admin\source\repos\DrawStar\DrawStar\bin\Debug\DrawStar.pdb
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.exe
+C:\Users\Admin\source\repos\DrawStar\DrawStar\obj\Debug\DrawStar.pdb

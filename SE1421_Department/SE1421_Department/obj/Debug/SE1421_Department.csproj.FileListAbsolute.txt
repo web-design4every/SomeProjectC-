@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\bin\SE1421_Department.dll.config
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\bin\SE1421_Department.dll
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\bin\SE1421_Department.pdb
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\obj\Debug\SE1421_Department.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\obj\Debug\SE1421_Department.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\obj\Debug\SE1421_Department.dll
+C:\Users\Admin\source\repos\SE1421_Department\SE1421_Department\obj\Debug\SE1421_Department.pdb

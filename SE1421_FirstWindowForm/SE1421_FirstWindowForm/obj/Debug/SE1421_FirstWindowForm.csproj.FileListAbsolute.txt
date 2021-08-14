@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\bin\Debug\SE1421_FirstWindowForm.exe
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\bin\Debug\SE1421_FirstWindowForm.pdb
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\obj\Debug\SE1421_FirstWindowForm.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\obj\Debug\SE1421_FirstWindowForm.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\obj\Debug\SE1421_FirstWindowForm.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\obj\Debug\SE1421_FirstWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\obj\Debug\SE1421_FirstWindowForm.exe
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\SE1421_FirstWindowForm\obj\Debug\SE1421_FirstWindowForm.pdb

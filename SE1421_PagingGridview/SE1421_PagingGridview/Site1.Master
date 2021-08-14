@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="SE1421_PagingGridview.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Label ID="Label1" runat="server" Text="UserName"></asp:Label>
+            <asp:TextBox ID="txtUsername" runat="server" style="margin-left: 36px" Width="213px"></asp:TextBox>
+            <br />
+            <asp:Label ID="Label2" runat="server" Text="Password"></asp:Label>
+            <asp:TextBox ID="txtPassword" runat="server" style="margin-left: 45px" Width="211px"></asp:TextBox>
+            <br />
+            <asp:Button ID="btnLogin" runat="server" OnClick="btnLogin_Click" Text="Login" />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\SE1421_Forum.exe.config
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\SE1421_Forum.exe
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\SE1421_Forum.pdb
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.Form1.resources
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.csproj.CopyComplete
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.exe
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.pdb
+C:\Users\Admin\source\repos\SE1421_Forum\SE1421_Forum\obj\Debug\SE1421_Forum.UserPost.resources

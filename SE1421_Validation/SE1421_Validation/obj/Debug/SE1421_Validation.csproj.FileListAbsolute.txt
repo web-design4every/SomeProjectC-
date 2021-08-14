@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\bin\SE1421_Validation.dll.config
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\bin\SE1421_Validation.dll
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\bin\SE1421_Validation.pdb
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\obj\Debug\SE1421_Validation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\obj\Debug\SE1421_Validation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\obj\Debug\SE1421_Validation.dll
+C:\Users\Admin\source\repos\SE1421_Validation\SE1421_Validation\obj\Debug\SE1421_Validation.pdb

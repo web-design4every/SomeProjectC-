@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\DemoInvolke\DemoInvolke\bin\Debug\DemoInvolke.exe
+C:\Users\Admin\source\repos\DemoInvolke\DemoInvolke\bin\Debug\DemoInvolke.pdb
+C:\Users\Admin\source\repos\DemoInvolke\DemoInvolke\obj\Debug\DemoInvolke.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoInvolke\DemoInvolke\obj\Debug\DemoInvolke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoInvolke\DemoInvolke\obj\Debug\DemoInvolke.exe
+C:\Users\Admin\source\repos\DemoInvolke\DemoInvolke\obj\Debug\DemoInvolke.pdb

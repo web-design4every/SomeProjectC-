@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\SE1421_Book\Entity\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Book\Entity\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Book\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Book\Entity\obj\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Book\Entity\obj\Debug\Entity.pdb

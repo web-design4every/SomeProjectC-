@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\bin\Debug\Calculator.exe
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\obj\Debug\Calculator.exe
+C:\Users\Admin\source\repos\SE1421_FirstWindowForm\Calculator\obj\Debug\Calculator.pdb

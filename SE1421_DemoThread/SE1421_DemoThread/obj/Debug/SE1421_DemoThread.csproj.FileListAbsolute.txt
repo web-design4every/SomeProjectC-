@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\SE1421_DemoThread\SE1421_DemoThread\bin\Debug\SE1421_DemoThread.exe
+C:\Users\Admin\source\repos\SE1421_DemoThread\SE1421_DemoThread\bin\Debug\SE1421_DemoThread.pdb
+C:\Users\Admin\source\repos\SE1421_DemoThread\SE1421_DemoThread\obj\Debug\SE1421_DemoThread.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_DemoThread\SE1421_DemoThread\obj\Debug\SE1421_DemoThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_DemoThread\SE1421_DemoThread\obj\Debug\SE1421_DemoThread.exe
+C:\Users\Admin\source\repos\SE1421_DemoThread\SE1421_DemoThread\obj\Debug\SE1421_DemoThread.pdb

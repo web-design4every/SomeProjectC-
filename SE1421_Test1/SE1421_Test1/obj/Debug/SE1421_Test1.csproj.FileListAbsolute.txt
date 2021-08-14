@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.Form1.resources
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\SE1421_Test1.exe.config
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\SE1421_Test1.exe
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\SE1421_Test1.pdb
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.csproj.CopyComplete
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.exe
+C:\Users\Admin\source\repos\SE1421_Test1\SE1421_Test1\obj\Debug\SE1421_Test1.pdb

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\SE1421_Book.exe.config
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\SE1421_Book.exe
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\SE1421_Book.pdb
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.Form1.resources
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.Properties.Resources.resources
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.csproj.CopyComplete
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.exe
+C:\Users\Admin\source\repos\SE1421_Book\SE1421_Book\obj\Debug\SE1421_Book.pdb
